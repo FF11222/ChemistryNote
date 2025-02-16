@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "17d17957d7e1eea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f6d86b5766518f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a1d98a80f06e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChemistryNote/化學.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "化學"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7dcfe531b5ae15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f67ebc919caf0b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574263d829f71684",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "1498c4a8aa48d89e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "8c44169b7bb6c160",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f366d59d9e7d2c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6623168d1f3e15dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f028eb904d74456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ChemistryNote/化學.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "化學 的反向連結"
+            }
+          },
+          {
+            "id": "e37f72968fe297e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的對外連結"
+            }
+          },
+          {
+            "id": "d7f2f1baf1d1abd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "a17582cfd6bd8db5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "574263d829f71684",
+  "lastOpenFiles": [
+    "ChemistryNote/化學.md",
+    "ChemistryNote/LICENSE",
+    "ChemistryNote",
+    "ChemistryNote/化學.md",
+    "有機化學.md",
+    "2025-02-16.md",
+    "英文.md",
+    "未命名.canvas",
+    "雜項/名詞片語.md",
+    "雜項/awkwardness.md",
+    "temp.md",
+    "雜項/形容詞子句.md",
+    "大分類/子句.md",
+    "雜項/名詞子句.md",
+    "雜項/副詞子句.md",
+    "大分類",
+    "雜項/對等子句.md",
+    "大分類/片語.md",
+    "雜項/副詞片語.md",
+    "雜項/形容詞片語.md",
+    "雜項/主詞.md",
+    "大分類/八大詞性.md",
+    "雜項/介系詞(prep.).md",
+    "雜項/連接詞(conj.).md",
+    "雜項/動詞(v.).md",
+    "雜項/副詞(adv.).md",
+    "雜項/形容詞(adj.).md",
+    "雜項/代名詞(pron.).md",
+    "雜項/名詞(n.).md",
+    "雜項"
+  ]
+}
